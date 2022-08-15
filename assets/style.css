@@ -92,7 +92,7 @@ h2 {
 }
 
 /*combined benefit-lead, benefit-cost and benefit-brand to adhere to DRY concept*/
-.benefit-lead .benefit-cost .benefit-brand {
+.benefit-lead, .benefit-cost, .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
